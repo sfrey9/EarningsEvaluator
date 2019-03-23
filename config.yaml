@@ -1,0 +1,13 @@
+listing:
+  TARGET_LIST: ['yahoo']
+  target: 
+    NAME: 'yahoo'
+    BASE_URL: "https://finance.yahoo.com/calendar/earnings?"
+azure:
+gcp:
+
+  
+
+
+
+
